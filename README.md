@@ -20,7 +20,22 @@ This repository contains the **ParsOffensive** dataset — a manually labeled co
 
 You can load the Excel file using `pandas`:
 
-```python
-import pandas as pd
-
+<pre>import pandas as pd
 df = pd.read_excel("ParsOffensive.xlsx")
+</pre>
+
+## 💡 Purpose
+
+The dataset was developed to help researchers and developers:
+
+- Detect and moderate offensive content in Persian  
+- Build and benchmark machine learning models  
+- Fill the resource gap in Persian NLP  
+
+## 📄 License
+
+MIT License (or your preferred license)
+
+## 🔗 Citation
+
+Our paper describing this dataset will be **indexed in IEEE soon**. Citation details will be added here once available.
