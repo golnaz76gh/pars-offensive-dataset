@@ -32,10 +32,6 @@ The dataset was developed to help researchers and developers:
 - Build and benchmark machine learning models  
 - Fill the resource gap in Persian NLP  
 
-## 📄 License
-
-MIT License (or your preferred license)
-
 ## 🔗 Citation
 
 Our paper describing this dataset will be **indexed in IEEE soon**. Citation details will be added here once available.
