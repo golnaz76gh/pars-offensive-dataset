@@ -34,4 +34,23 @@ The dataset was developed to help researchers and developers:
 
 ## 🔗 Citation
 
-Our paper describing this dataset will be **indexed in IEEE soon**. Citation details will be added here once available.
+If you use this dataset in your research, please cite:
+
+Ali Nazarizadeh, Minoo Sayyadpour, Omid Ebrahimkhani, Amirmasoud Iravani, Golnaz Ghannadan Shirazi, Mojgan Behravan,  
+**"Parsoffensive: Persian Offensive Comments Dataset"**,  
+Proceedings of the 11th International Conference on Web Research (ICWR), Apr 2025, pp. 100–104.  
+DOI: https://doi.org/10.1109/ICWR65219.2025.11006224.  
+ResearchGate: https://www.researchgate.net/publication/391998695_Parsoffensive_Persian_Offensive_Comments_Dataset
+
+**Suggested BibTeX**
+```bibtex
+@inproceedings{nazarizadeh2025parsoffensive,
+  author    = {Ali Nazarizadeh and Minoo Sayyadpour and Omid Ebrahimkhani and Amirmasoud Iravani and Golnaz Ghannadan Shirazi and Mojgan Behravan},
+  title     = {Parsoffensive: Persian Offensive Comments Dataset},
+  booktitle = {Proceedings of the 11th International Conference on Web Research (ICWR)},
+  year      = {2025},
+  pages     = {100--104},
+  doi       = {10.1109/ICWR65219.2025.11006224},
+  url       = {https://doi.org/10.1109/ICWR65219.2025.11006224}
+}
+
